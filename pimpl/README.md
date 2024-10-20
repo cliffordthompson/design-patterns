@@ -13,4 +13,4 @@ are restricted to source file (.cpp)
 ## Disadvantages
 - Dynamic memory allocation occurs everytime an instance of the class is created, and thus
 the class most exists outside of the stack.
-- Increases the chances of memory leaks if smart pointers are not used for the private implmentations.
+- Increases the chances of memory leaks if smart pointers are not used for the private implementations.
